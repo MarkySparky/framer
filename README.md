@@ -1,14 +1,14 @@
-Scapegoat
+Framer
 =========
 
-A minimal node module providing utility methods to `escape` and `unescape` HTML entities
+A library that creates device framed screenshots and composites from device screenshots
 
 See the associated blog post, ["Creating and publishing a node.js module."](https://quickleft.com/blog/creating-and-publishing-a-node-js-module/)
 
 ## Installation
 
 ```shell
-  npm install scapegoat --save
+  npm install framer --save
 ```
 
 ## Usage
