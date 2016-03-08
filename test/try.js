@@ -4,8 +4,10 @@ console.log('In framer test');
 
 var config = {
   'source': './test/screenshots/*{.png,.jpg,.PNG,*.JPG,*.JPEG,*.jpg}',
-  'dest': './framed1/',
-  'configFile': 'framer.json'
+  'sourceONE': './test/screenshots/choose-plan.png',
+  'dest': './framed/',
+  'configFile': 'framer.json',
+  destPrefix: 'framed_'
 };
 
 framer.frame(config);
