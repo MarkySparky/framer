@@ -1,0 +1,37 @@
+{
+  "name": "framer",
+  "version": "1.0.0",
+  "description": "A library that creates device framed screenshots and composites from device screenshots",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MarkySparky/framer"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Mark Caulfield <markacaulfield@googlemail.com> (http://ginger.land/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/MarkySparky/framer/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "chai": "~1.8.1"
+  },
+  "homepage": "https://github.com/MarkySparky/framer#readme",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC"
+}
